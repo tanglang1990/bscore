@@ -1,0 +1,24 @@
+{
+  "pages": [{
+    "path": "pages/index/index",
+    "style": {
+      "navigationBarTitleText": "羽毛球计分板"
+    }
+  }, {
+    "path": "pages/play/play",
+    "style": {
+      "navigationBarTitleText": "双打"
+    }
+  }, {
+    "path": "pages/play1/play1",
+    "style": {
+      "navigationBarTitleText": "单打"
+    }
+  }],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#FFFFFF"
+  }
+}
